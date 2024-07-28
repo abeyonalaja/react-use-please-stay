@@ -1,0 +1,35 @@
+{
+  "name": "react-use-please-stay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeyonalaja/react-use-please-stay.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "react",
+    "hook",
+    "react",
+    "hooks"
+  ],
+  "author": "Abey Onalaja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abeyonalaja/react-use-please-stay/issues"
+  },
+  "homepage": "https://github.com/abeyonalaja/react-use-please-stay#readme",
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  }
+}
